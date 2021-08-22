@@ -1,0 +1,4 @@
+albumentations==1.0.0
+effdet==0.2.4
+timm==0.4.13
+torch==1.9.0
