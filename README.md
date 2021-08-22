@@ -2,7 +2,7 @@
 
 ## Summary of 9th place solution (Team Watercooled)
 
-This repo summarizes our solution which consists of a blend of classification models for and object detection models
+This repository summarizes our solution which consists of a blend of classification models for and object detection models
 In order to reproduce our solution its sufficient to run the following steps.
 Please also find our describing summary on kaggle (https://www.kaggle.com/c/siim-covid19-detection/discussion/265583)
 
